@@ -1,1 +1,1 @@
-0,wallet1,wallet2,wallet3,carteira_paula,null, 
+null,wallet1,wallet2,wallet3,carteira_paula,
